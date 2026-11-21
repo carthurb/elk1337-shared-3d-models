@@ -16,8 +16,11 @@ Downloads are served from this repo's [latest release](https://github.com/carthu
 | '57 Del Rio comp cut cab backplate | `del-rio-backplate-comp-cut.stl` | [download](https://github.com/carthurb/elk1337-shared-3d-models/releases/latest/download/del-rio-backplate-comp-cut.stl) |
 | '57 Del Rio uncut cab | `del-rio-cab-uncut.stl` | [download](https://github.com/carthurb/elk1337-shared-3d-models/releases/latest/download/del-rio-cab-uncut.stl) |
 | '57 Del Rio uncut cab backplate | `del-rio-backplate-uncut.stl` | [download](https://github.com/carthurb/elk1337-shared-3d-models/releases/latest/download/del-rio-backplate-uncut.stl) |
+| Coyote rear mount crossbar, 65 mm wide | `coyote-rear-mount-crossbar-65mm.stl` | [download](https://github.com/carthurb/elk1337-shared-3d-models/releases/latest/download/coyote-rear-mount-crossbar-65mm.stl) |
 
 The comp cut Del Rio cab needs 5× M3 heat-set threaded inserts; the uncut cab needs 4×.
+
+The Coyote rear mount crossbar is a round bar 65 mm wide, 5.5 mm thick over the middle 40 mm and 9.5 mm at the ends, with a 2.8 mm hole in each end for an M3 screw to thread into.
 
 Link format: `https://github.com/carthurb/elk1337-shared-3d-models/releases/latest/download/<file name>`
 
